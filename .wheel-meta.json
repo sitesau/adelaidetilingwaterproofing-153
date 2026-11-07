@@ -1,0 +1,22 @@
+{
+  "wheel_id": 810,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-153",
+  "project": "tiling-services-adelaide-28de456ca5bf92f8a64015b54eb03e11a08c26",
+  "parent_t1_ref": "adelaidetilingwaterproofing-010",
+  "node_role": "buffer",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "tiling services adelaide",
+  "intended_url": "https://sitesau.github.io/adelaidetilingwaterproofing-153/",
+  "tier": "T2",
+  "writeback_nonce": "7a91c8dca6fd89b4",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/tiling-services-adelaide/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
